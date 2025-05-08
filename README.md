@@ -31,10 +31,10 @@ chmod +x install_dependencies.sh
 Jalankan script utama dengan daftar IP:
 
 ```bash
-python3 scan_situs.py ip_list.php
+python3 scan_situs.py ip_list.txt
 ```
 
-> 💡 Gantilah `ip_list.php` dengan file berisi daftar IP target (1 IP per baris)
+> 💡 Gantilah `ip_list.txt` dengan file berisi daftar IP target (1 IP per baris)
 
 ---
 
