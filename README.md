@@ -1,4 +1,4 @@
-# 🌐 Site Scanner 🎯
+# 🌐 IP Content Scanner 🎯
 
 Alat pemindai berbasis IP untuk mendeteksi situs **judi 🎲**, **porno 🔞**, atau **umum ✅**. Dilengkapi dengan output berwarna, lokasi geografis 🌍, dan notifikasi Telegram 📩.
 
