@@ -47,14 +47,14 @@ Mulai proses scanning:
 
 Progres: 100%|████████████████████████| 50/50 [00:54<00:00,  1.10s/ip]
 
-IP                 | Lokasi                    | Kategori        | Prot.  | Path         | Status
+IP                 | Lokasi                      | Kategori       | Prot.  | Path         | Status
 -------------------------------------------------------------------------------------
-103.149.177.91     | Jakarta, ID 🌍             | ✅ situs bukan | -      | -            | ❌ Situs tidak tersedia
-103.160.63.135     | Jakarta, ID 🌍             | ✅ situs bukan | http   | /            | ✅ Akses berhasil
-103.160.62.243     | Jakarta, ID 🌍             | ✅ situs bukan | http   | /            | ✅ Akses berhasil
-103.168.146.150    | Jakarta, ID 🌍             | ✅ situs bukan | -      | -            | ❌ Situs tidak tersedia
-103.160.63.133     | Jakarta, ID 🌍             | ✅ situs bukan | http   | /            | ✅ Akses berhasil
-103.215.229.76     | Surabaya, East Java, ID 🌍 | ✅ situs bukan | http   | /            | ✅ Akses berhasil
+103.149.xx.xx      | Jakarta, ID 🌍             | ✅ situs bukan | -      | -            | ❌ Situs tidak tersedia
+103.160.xx.xx      | Jakarta, ID 🌍             | ✅ situs bukan | http   | /            | ✅ Akses berhasil
+103.160.xx.xx      | Jakarta, ID 🌍             | ✅ situs bukan | http   | /            | ✅ Akses berhasil
+103.168.xx.xx      | Jakarta, ID 🌍             | ✅ situs bukan | -      | -            | ❌ Situs tidak tersedia
+103.160.xx.xx      | Jakarta, ID 🌍             | ✅ situs bukan | http   | /            | ✅ Akses berhasil
+103.215.xx.xx      | Surabaya, East Java, ID 🌍 | ✅ situs bukan | http   | /            | ✅ Akses berhasil
 
 ```
 
